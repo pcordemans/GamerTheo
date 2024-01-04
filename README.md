@@ -1,0 +1,2 @@
+# GamerTheo
+Game theory simulator
